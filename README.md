@@ -18,7 +18,7 @@ The dashboard allows HR managers to analyze employee distribution, attrition, an
 
 ## 🛠 Tools Used  
 - **Tableau** → for visualization and dashboard design  
-- **Sample HR Dataset** (provided in guided project)
+- **Sample HR Dataset** (Generated using ChatGPT and Faker Library)
 
 - ## 🎯 Learnings  
 - Practiced building **interactive dashboards** in Tableau  
